@@ -1,0 +1,15 @@
+/Users/clinton/Desktop/challenge 2/TimeCountdown/bin/Debug/net7.0/TimeCountdown
+/Users/clinton/Desktop/challenge 2/TimeCountdown/bin/Debug/net7.0/TimeCountdown.deps.json
+/Users/clinton/Desktop/challenge 2/TimeCountdown/bin/Debug/net7.0/TimeCountdown.runtimeconfig.json
+/Users/clinton/Desktop/challenge 2/TimeCountdown/bin/Debug/net7.0/TimeCountdown.dll
+/Users/clinton/Desktop/challenge 2/TimeCountdown/bin/Debug/net7.0/TimeCountdown.pdb
+/Users/clinton/Desktop/challenge 2/TimeCountdown/obj/Debug/net7.0/TimeCountdown.csproj.AssemblyReference.cache
+/Users/clinton/Desktop/challenge 2/TimeCountdown/obj/Debug/net7.0/TimeCountdown.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clinton/Desktop/challenge 2/TimeCountdown/obj/Debug/net7.0/TimeCountdown.AssemblyInfoInputs.cache
+/Users/clinton/Desktop/challenge 2/TimeCountdown/obj/Debug/net7.0/TimeCountdown.AssemblyInfo.cs
+/Users/clinton/Desktop/challenge 2/TimeCountdown/obj/Debug/net7.0/TimeCountdown.csproj.CoreCompileInputs.cache
+/Users/clinton/Desktop/challenge 2/TimeCountdown/obj/Debug/net7.0/TimeCountdown.dll
+/Users/clinton/Desktop/challenge 2/TimeCountdown/obj/Debug/net7.0/refint/TimeCountdown.dll
+/Users/clinton/Desktop/challenge 2/TimeCountdown/obj/Debug/net7.0/TimeCountdown.pdb
+/Users/clinton/Desktop/challenge 2/TimeCountdown/obj/Debug/net7.0/TimeCountdown.genruntimeconfig.cache
+/Users/clinton/Desktop/challenge 2/TimeCountdown/obj/Debug/net7.0/ref/TimeCountdown.dll

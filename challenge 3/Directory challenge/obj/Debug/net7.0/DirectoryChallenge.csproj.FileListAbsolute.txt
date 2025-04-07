@@ -1,0 +1,15 @@
+/Users/clinton/Desktop/challenge 3/Directory challenge/bin/Debug/net7.0/DirectoryChallenge
+/Users/clinton/Desktop/challenge 3/Directory challenge/bin/Debug/net7.0/DirectoryChallenge.deps.json
+/Users/clinton/Desktop/challenge 3/Directory challenge/bin/Debug/net7.0/DirectoryChallenge.runtimeconfig.json
+/Users/clinton/Desktop/challenge 3/Directory challenge/bin/Debug/net7.0/DirectoryChallenge.dll
+/Users/clinton/Desktop/challenge 3/Directory challenge/bin/Debug/net7.0/DirectoryChallenge.pdb
+/Users/clinton/Desktop/challenge 3/Directory challenge/obj/Debug/net7.0/DirectoryChallenge.csproj.AssemblyReference.cache
+/Users/clinton/Desktop/challenge 3/Directory challenge/obj/Debug/net7.0/DirectoryChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clinton/Desktop/challenge 3/Directory challenge/obj/Debug/net7.0/DirectoryChallenge.AssemblyInfoInputs.cache
+/Users/clinton/Desktop/challenge 3/Directory challenge/obj/Debug/net7.0/DirectoryChallenge.AssemblyInfo.cs
+/Users/clinton/Desktop/challenge 3/Directory challenge/obj/Debug/net7.0/DirectoryChallenge.csproj.CoreCompileInputs.cache
+/Users/clinton/Desktop/challenge 3/Directory challenge/obj/Debug/net7.0/DirectoryChallenge.dll
+/Users/clinton/Desktop/challenge 3/Directory challenge/obj/Debug/net7.0/refint/DirectoryChallenge.dll
+/Users/clinton/Desktop/challenge 3/Directory challenge/obj/Debug/net7.0/DirectoryChallenge.pdb
+/Users/clinton/Desktop/challenge 3/Directory challenge/obj/Debug/net7.0/DirectoryChallenge.genruntimeconfig.cache
+/Users/clinton/Desktop/challenge 3/Directory challenge/obj/Debug/net7.0/ref/DirectoryChallenge.dll

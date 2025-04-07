@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/clinton/Desktop/challenge 2/TimeCountdown/TimeCountdown.csproj": {}
+  },
+  "projects": {
+    "/Users/clinton/Desktop/challenge 2/TimeCountdown/TimeCountdown.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/clinton/Desktop/challenge 2/TimeCountdown/TimeCountdown.csproj",
+        "projectName": "TimeCountdown",
+        "projectPath": "/Users/clinton/Desktop/challenge 2/TimeCountdown/TimeCountdown.csproj",
+        "packagesPath": "/Users/clinton/.nuget/packages/",
+        "outputPath": "/Users/clinton/Desktop/challenge 2/TimeCountdown/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/clinton/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
