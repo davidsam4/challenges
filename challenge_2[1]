@@ -1,0 +1,52 @@
+using System;
+using System.Globalization;
+using System.Threading;
+
+class Program
+{
+    static void Main()
+    {
+        while (true)
+        {
+            Console.Write("Enter time in HH:mm format (or type 'exit' to quit): ");
+            string input = Console.ReadLine()?.Trim();
+
+            if (input?.ToLower() == "exit")
+                break;
+
+            if (DateTime.TryParseExact(input, "HH:mm", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime userTime))
+            {
+                DateTime now = DateTime.Now;
+                DateTime todayUserTime = now.Date.AddHours(userTime.Hour).AddMinutes(userTime.Minute);
+                
+                if (todayUserTime < now)
+                {
+                    Console.WriteLine("The time has already passed today.");
+                }
+                else if (todayUserTime > now)
+                {
+                    TimeSpan difference = todayUserTime - now;
+                    Console.WriteLine($"Time is in the future. Countdown: {difference.TotalMinutes:F0} minutes.");
+
+                    while (difference.TotalSeconds > 0)
+                    {
+                        Console.Clear();
+                        Console.WriteLine($"Time remaining: {difference.Minutes} minutes {difference.Seconds} seconds");
+                        Thread.Sleep(1000);
+                        difference = todayUserTime - DateTime.Now;
+                    }
+
+                    Console.WriteLine("Time reached!");
+                }
+                else
+                {
+                    Console.WriteLine("The entered time is now!");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Invalid time format. Please enter a valid HH:mm time.");
+            }
+        }
+    }
+}
